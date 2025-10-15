@@ -13,7 +13,7 @@
     "clean": "rimraf ./coverage && mkdirp ./coverage",
     "test": "jest",
     "mutation": "stryker run",
-    "coverage": "npm run clean && jest --coverage"
+    "coverage": "stryker run"
   },
   "jest": {
     "coverageReporters": [

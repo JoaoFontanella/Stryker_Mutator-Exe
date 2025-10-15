@@ -7,6 +7,6 @@ run `npm run mutation` - roda os testes usando o Stryker Mutator
 
 
 ## Resultado Esperado
-![Teste Normal](./public/Teste_Normal.png)
+![Teste Normal](./public/Teste_Normal.png) <br>
 
 ![Teste Mutate](./public/Teste_Mutate.png)
