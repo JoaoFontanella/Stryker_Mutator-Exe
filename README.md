@@ -2,7 +2,7 @@
 
 ## Rodar Projeto
 
-run `npm test` - Roda os teste padrão
+run `npm test` - Roda os teste padrão <br>
 run `npm run mutation` - roda os testes usando o Stryker Mutator
 
 
